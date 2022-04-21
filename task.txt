@@ -1,0 +1,15 @@
+Implement the queue.
+Implement the deque.
+Create a header file for both of these data structures.
+Read a file with the following structure
+
+front 1
+back  2
+front 3
+front 4
+back  7
+back  8
+front 9
+into a deque. Every time the string says "front", please insert the number in the same line using push_front. Every time the string says "back", please insert it using push_back. Print the data structure from the start to end.
+
+Download and read the file cities.json from https://math.uni.lodz.pl/~rogalski/cities.json, which is a json array containing json objects. Every json object contains latitudes, longitudes, populations an city names. Unfortunately, the population data is highly incomplete. Cities which have a population of -1, have no population iformation. Please read the file in. Please push cities which have a population that is not equal to -1 into a queue of City.

@@ -1,0 +1,17 @@
+aixas 42.4833333 1.4666667
+aixirivali 42.4666667 1.5
+aixirivall 42.4666667 1.5
+aixirvall 42.4666667 1.5
+aixovall 42.4666667 1.4833333
+andorra 42.5 1.5166667
+andorra_la_vella 42.5 1.5166667
+andorra-vieille 42.5 1.5166667
+andorre 42.5 1.5166667
+andorre-la-vieille 42.5 1.5166667
+andorre-vieille 42.5 1.5166667
+ansalonga 42.5666667 1.5166667
+anyos 42.5333333 1.5333333
+arans 42.5833333 1.5166667
+arinsal 42.5666667 1.4833333
+aubinya 42.45 1.5
+auvinya 42.45 1.5
